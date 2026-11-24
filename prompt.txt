@@ -1,0 +1,7 @@
+Write a Python program (stdlib only) that writes ONE original, funny, weird job title to /output/entry.txt (respecting MAKEFUN_OUTPUT_DIR), 1–60 characters, nothing else in the file.
+
+The title must beat other titles in a blind pairwise judge that weighs, in order: (1) is a weird job title, (2) stranger than ordinary work, (3) funny on first read, (4) sounds like a real, specific job you can picture someone doing, (5) reads instantly at a glance.
+
+Strategy: use a real-sounding senior job frame ("Senior ... Wrangler") with one gloriously specific twist — an absurd animal (penguins) plus an absurd employer (billionaire yachts). Avoid random word salad and generic oddities; keep it short and concrete.
+
+Chosen title: "Senior Penguin Wrangler for Billionaire Yachts" (46 characters).
